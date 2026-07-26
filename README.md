@@ -1,7 +1,5 @@
 # 🧠 Solve It — AI-Powered Problem Solver
 
-![Solve It Banner](https://img.shields.io/badge/Solve%20It-AI%20Problem%20Solver-7b6fff?style=for-the-badge)
-
 > **Solve any problem in seconds.** AI-powered intelligence with continuous session security monitoring.
 > 
 > ⚠️ **IMPORTANT**: This project is intended **for ethical and educational purposes only**. It demonstrates AI problem-solving and security-monitoring concepts in a controlled learning environment. Any use for unauthorized surveillance, invasion of privacy, or illegal/unethical activity is strictly prohibited. By using this software, you agree to use it responsibly and in compliance with all applicable laws.
@@ -9,6 +7,8 @@
 ---
 
 ## ✨ Overview
+![Solve It Banner](https://img.shields.io/badge/Solve%20It-AI%20Problem%20Solver-7b6fff?style=for-the-badge)
+
 
 **Solve It** is a cutting-edge AI problem-solving platform that tackles coding challenges, mathematical equations, logical puzzles, creative projects, business strategy, and beyond. Built with a focus on both intelligence and security, it features continuous session monitoring via camera capture to ensure platform integrity.
 
@@ -150,7 +150,7 @@ Solve It performs **continuous session monitoring** using the device camera for 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <strong>DHRUMIL CHAUDHARY</strong></sub>
+  <sub>Built with ❤️ by <stron> Pushpak Sheoran </strong></sub>
   <br>
   <sub>© 2026 Solve It Technologies Pvt. Ltd.</sub>
 </p>
