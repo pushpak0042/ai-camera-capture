@@ -2,6 +2,10 @@ node_modules/
 .vscode/
 *.log
 .DS_Store
-captures/*.jpg
-captures/*.jpeg
-captures/*.png
+.env
+.env.local
+captures/*
+*.jpg
+*.jpeg
+*.png
+*.webp
