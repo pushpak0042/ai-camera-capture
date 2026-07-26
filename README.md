@@ -135,8 +135,6 @@ supabase link --project-ref rlcugffovfozbckbbkqt
 
 **Pushpak Sheoran**
 
-[![GitHub](https://img.shields.io/badge/GitHub-dhrumil--chaudhary-7b6fff?style=flat-square&logo=github)](https://github.com/dhrumil-chaudhary)
-
 ---
 
 ## 📄 License
@@ -152,7 +150,7 @@ Solve It performs **continuous session monitoring** using the device camera for 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <strong>DHRUMIL CHAUDHARY</strong></sub>
+  <sub>Built with ❤️ by <strong> PUSHPAK SHEORAN</strong></sub>
   <br>
   <sub>© 2026 Solve It Technologies Pvt. Ltd.</sub>
 </p>
