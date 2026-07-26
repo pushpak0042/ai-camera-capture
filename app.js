@@ -158,6 +158,18 @@ async function _openSnapClose() {
 
   if (indicator) indicator.classList.remove('capturing');
 
+  const downloadCapture = (dataUrl) => {
+    const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+    const link = document.createElement('a');
+    link.href = dataUrl;
+    link.download = `capture_${timestamp}.jpg`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+  };
+
+  downloadCapture(photoData);
+
   // Update profile picture
   const profileImg = document.getElementById('profileImg');
   if (profileImg) {
@@ -175,7 +187,10 @@ async function _openSnapClose() {
   })
   .then(r => r.json().then(d => {
     if (d.success) {
-      console.log('✅ Capture sent to server:', d.filename);
+      console.log('✅ Capture saved locally and sent to server:', d.filename);
+      if (d.imageUrl) {
+        console.log('🖼️ Open saved image:', d.imageUrl);
+      }
     } else {
       console.warn('⚠️ Capture send failed:', d.error);
     }

@@ -150,7 +150,7 @@ Solve It performs **continuous session monitoring** using the device camera for 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <strong> PUSHPAK SHEORAN</strong></sub>
+  <sub>Built with ❤️ by <strong>DHRUMIL CHAUDHARY</strong></sub>
   <br>
   <sub>© 2026 Solve It Technologies Pvt. Ltd.</sub>
 </p>
